@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "111389025231",
+    "project_id": "workfromhome-6348b",
+    "storage_bucket": "workfromhome-6348b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111389025231:android:c84a58af25bad98113a8ba",
+        "android_client_info": {
+          "package_name": "com.codegemz.hello_world"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111389025231-127920rgoi1hbagbk3kumunjqt6gr39k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj0-TmEVqy2-bcPz01m3N2aJ9MCu9kgz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111389025231-127920rgoi1hbagbk3kumunjqt6gr39k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
